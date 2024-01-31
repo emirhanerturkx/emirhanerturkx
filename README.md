@@ -8,5 +8,5 @@ I'm Emirhan. I work in the fields of software and devops, I am interested in mus
 
 
 ##### Links
-* [Linkedin]([https://www.linkedin.com/in/niyazialpay/](https://www.linkedin.com/in/emirhan-erturk/))
+* [Linkedin](https://www.linkedin.com/in/emirhan-erturk/)
 * [instagram](https://instagram/eemirhan.erturk/)
