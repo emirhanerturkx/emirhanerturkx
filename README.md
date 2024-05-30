@@ -3,8 +3,9 @@ I'm Emirhan. I work in the fields of software and devops, I am interested in mus
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanerturkx&layout=compact&theme=merko">
 <img src="https://github-readme-stats.vercel.app/api?username=emirhanerturkx&show_icons=true&theme=radical">
-### My  
-[Erturk.dev](https://erturk.dev)
+
+### My Portfolio
+* [Erturk.dev](https://erturk.dev)
 
 
 ##### Links
